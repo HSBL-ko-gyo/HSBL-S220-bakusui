@@ -43,7 +43,7 @@ HSBL-S220 bakusui/
   トップ画面最下部の「バージョン情報 / ライセンス」リンクから開けます。
 - クレジット（必ず表示）:
   - 音声合成: VOICEVOX:四国めたん
-- OSSライセンス一覧は Google Play services の OSS Licenses Activity を使用しています（`com.google.android.gms:play-services-oss-licenses` / `androidx.appcompat:appcompat` に依存）。
+
 
 バージョンは `app/build.gradle` の `versionName` / `versionCode` に基づき表示されます。
 
