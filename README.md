@@ -1,2 +1,51 @@
-# HSBL-S220-bakusui
-爆速で眠りにいざなう睡眠ツールをまとめたスマホアプリ
+# バクスイ（睡眠向上プラットフォーム）
+
+睡眠薬に頼らず「寝入り」を早くする実験的プラットフォーム。
+
+## 🎯 プロジェクト概要
+
+バクスイは、**認知シャッフル睡眠法の音声版**を実装したアプリです。
+
+**プロトタイプで実装する4つの軸**
+1. それっぽいUI（再生/停止、インターバル調整）
+2. 音声ファイル群（assets直置き）
+3. いい感じにシャッフルする機能
+4. 音声ファイルを足せる口（将来対応）
+
+## 📁 プロジェクト構成
+
+```
+HSBL-S220 bakusui/
+├── PROJECT_GUIDE.md       # プロジェクト仕様
+├── README.md              # このファイル
+├── docs/
+│   └── ANDROID_APP_SPEC.md
+└── android_app/           # Androidアプリ
+    └── app/src/main/assets/audio/   # 音声ファイル直置き
+```
+
+## 🚀 開発手順
+
+1. UI実装（1画面）
+2. assets/audio に音声配置
+3. シャッフルロジック実装
+4. 再生ロジック実装
+
+## 🔮 将来対応（プロトタイプでは実装しない）
+- ZIPインポート
+- PC生成ツールとの連携
+- パック管理
+- タイマー・詳細設定
+
+## ℹ️ バージョン情報 / ライセンス
+
+- アプリ内の「バージョン情報 / ライセンス」画面から、バージョンとクレジットを確認できます。  
+  トップ画面最下部の「バージョン情報 / ライセンス」リンクから開けます。
+- クレジット（必ず表示）:
+  - 音声合成: VOICEVOX:四国めたん
+- OSSライセンス一覧は Google Play services の OSS Licenses Activity を使用しています（`com.google.android.gms:play-services-oss-licenses` / `androidx.appcompat:appcompat` に依存）。
+
+バージョンは `app/build.gradle` の `versionName` / `versionCode` に基づき表示されます。
+
+---
+詳細は `PROJECT_GUIDE.md` を参照。

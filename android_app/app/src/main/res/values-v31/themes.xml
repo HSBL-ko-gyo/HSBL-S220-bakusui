@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android 12+ スプラッシュ指定 -->
+    <style name="Theme.Bakusui" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_bakusui_logo</item>
+        <item name="android:windowSplashScreenBackground">@color/splash_bg</item>
+    </style>
+</resources>
+
+

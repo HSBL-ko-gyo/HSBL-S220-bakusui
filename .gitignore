@@ -1,0 +1,37 @@
+# 一般的な無視ファイル
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Android
+android_app/.gradle/
+android_app/build/
+android_app/*.iml
+android_app/.idea/
+android_app/local.properties
+android_app/.externalNativeBuild/
+android_app/.cxx/
+android_app/*.apk
+android_app/*.ap_
+android_app/*.aab
+
+# 生成されたパック（ZIPファイルは残す）
+packs/*/audio/*.wav
+
+# 一時ファイル
+*.tmp
+*.bak
+*.swp
+

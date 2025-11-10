@@ -1,0 +1,4046 @@
+{
+  "version": 1,
+  "language": "ja",
+  "name": "shikoku_metan_whisper",
+  "audio_dir": "audio",
+  "items": [
+    {
+      "id": "w0001",
+      "text": "りんご",
+      "category": "object",
+      "file": "object__ringo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0002",
+      "text": "りす",
+      "category": "animal",
+      "file": "animal__risu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0003",
+      "text": "りり゜す",
+      "category": "abstract",
+      "file": "abstract__riri-su__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0004",
+      "text": "らいおん",
+      "category": "animal",
+      "file": "animal__raion__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0005",
+      "text": "らっぱ",
+      "category": "object",
+      "file": "object__rappa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0006",
+      "text": "らんぷ",
+      "category": "object",
+      "file": "object__ranpu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0007",
+      "text": "る゜る",
+      "category": "abstract",
+      "file": "abstract__ru-ru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0008",
+      "text": "る゜ぷ",
+      "category": "abstract",
+      "file": "abstract__ru-pu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0009",
+      "text": "る゜む",
+      "category": "abstract",
+      "file": "abstract__ru-mu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0010",
+      "text": "こっぷ",
+      "category": "object",
+      "file": "object__koppu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0011",
+      "text": "かぎ",
+      "category": "object",
+      "file": "object__kagi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0012",
+      "text": "かばん",
+      "category": "object",
+      "file": "object__kaban__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0013",
+      "text": "の゜と",
+      "category": "object",
+      "file": "object__no-to__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0014",
+      "text": "えんぴつ",
+      "category": "object",
+      "file": "object__enpitsu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0015",
+      "text": "ぺん",
+      "category": "object",
+      "file": "object__pen__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0016",
+      "text": "いす",
+      "category": "object",
+      "file": "object__isu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0017",
+      "text": "つくえ",
+      "category": "object",
+      "file": "object__tsukue__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0018",
+      "text": "まくら",
+      "category": "object",
+      "file": "object__makura__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0019",
+      "text": "ふとん",
+      "category": "object",
+      "file": "object__futon__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0020",
+      "text": "はさみ",
+      "category": "object",
+      "file": "object__hasami__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0021",
+      "text": "ないふ",
+      "category": "object",
+      "file": "object__naifu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0022",
+      "text": "すぷ゜ん",
+      "category": "object",
+      "file": "object__supu-n__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0023",
+      "text": "ふぉ゜く",
+      "category": "object",
+      "file": "object__fu-ku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0024",
+      "text": "さら",
+      "category": "object",
+      "file": "object__sara__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0025",
+      "text": "ちゃわん",
+      "category": "object",
+      "file": "object__chawan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0026",
+      "text": "なべ",
+      "category": "object",
+      "file": "object__nabe__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0027",
+      "text": "かさ",
+      "category": "object",
+      "file": "object__kasa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0028",
+      "text": "めがね",
+      "category": "object",
+      "file": "object__megane__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0029",
+      "text": "すまほ",
+      "category": "object",
+      "file": "object__sumaho__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0030",
+      "text": "ぱそこん",
+      "category": "object",
+      "file": "object__pasokon__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0031",
+      "text": "まうす",
+      "category": "object",
+      "file": "object__mausu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0032",
+      "text": "き゜ぼ゜ど",
+      "category": "object",
+      "file": "object__ki-bo-do__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0033",
+      "text": "てれび",
+      "category": "object",
+      "file": "object__terebi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0034",
+      "text": "かめら",
+      "category": "object",
+      "file": "object__kamera__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0035",
+      "text": "ぼ゜る",
+      "category": "object",
+      "file": "object__bo-ru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0036",
+      "text": "つみき",
+      "category": "object",
+      "file": "object__tsumiki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0037",
+      "text": "くつ",
+      "category": "object",
+      "file": "object__kutsu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0038",
+      "text": "くつした",
+      "category": "object",
+      "file": "object__kutsushita__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0039",
+      "text": "ぼうし",
+      "category": "object",
+      "file": "object__boushi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0040",
+      "text": "てぶくろ",
+      "category": "object",
+      "file": "object__tebukuro__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0041",
+      "text": "こ゜と",
+      "category": "object",
+      "file": "object__ko-to__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0042",
+      "text": "しゃつ",
+      "category": "object",
+      "file": "object__shatsu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0043",
+      "text": "ずぼん",
+      "category": "object",
+      "file": "object__zubon__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0044",
+      "text": "すか゜と",
+      "category": "object",
+      "file": "object__suka-to__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0045",
+      "text": "たおる",
+      "category": "object",
+      "file": "object__taoru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0046",
+      "text": "せっけん",
+      "category": "object",
+      "file": "object__sekken__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0047",
+      "text": "はぶらし",
+      "category": "object",
+      "file": "object__haburashi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0048",
+      "text": "はみがきこ",
+      "category": "object",
+      "file": "object__hamigakiko__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0049",
+      "text": "しゃんぷ゜",
+      "category": "object",
+      "file": "object__shanpu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0050",
+      "text": "どらいや゜",
+      "category": "object",
+      "file": "object__doraiya__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0051",
+      "text": "かがみ",
+      "category": "object",
+      "file": "object__kagami__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0052",
+      "text": "はな",
+      "category": "object",
+      "file": "object__hana__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0053",
+      "text": "かみ",
+      "category": "object",
+      "file": "object__kami__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0054",
+      "text": "ふうせん",
+      "category": "object",
+      "file": "object__fuusen__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0055",
+      "text": "でんき",
+      "category": "object",
+      "file": "object__denki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0056",
+      "text": "でんち",
+      "category": "object",
+      "file": "object__denchi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0057",
+      "text": "めだまやき",
+      "category": "object",
+      "file": "object__medamayaki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0058",
+      "text": "おにぎり",
+      "category": "object",
+      "file": "object__onigiri__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0059",
+      "text": "ぱん",
+      "category": "object",
+      "file": "object__pan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0060",
+      "text": "ばた゜",
+      "category": "object",
+      "file": "object__bata__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0061",
+      "text": "じゃむ",
+      "category": "object",
+      "file": "object__jamu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0062",
+      "text": "ぎゅうにゅう",
+      "category": "object",
+      "file": "object__gyuunyuu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0063",
+      "text": "おちゃ",
+      "category": "object",
+      "file": "object__ocha__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0064",
+      "text": "みず",
+      "category": "object",
+      "file": "object__mizu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0065",
+      "text": "じゅ゜す",
+      "category": "object",
+      "file": "object__ju-su__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0066",
+      "text": "こ゜ひ゜",
+      "category": "object",
+      "file": "object__ko-hi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0067",
+      "text": "とうふ",
+      "category": "object",
+      "file": "object__toufu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0068",
+      "text": "みそしる",
+      "category": "object",
+      "file": "object__misoshiru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0069",
+      "text": "やさい",
+      "category": "object",
+      "file": "object__yasai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0070",
+      "text": "くだもの",
+      "category": "object",
+      "file": "object__kudamono__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0071",
+      "text": "にんじん",
+      "category": "object",
+      "file": "object__ninjin__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0072",
+      "text": "きゅうり",
+      "category": "object",
+      "file": "object__kyuuri__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0073",
+      "text": "とまと",
+      "category": "object",
+      "file": "object__tomato__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0074",
+      "text": "きゃべつ",
+      "category": "object",
+      "file": "object__kyabetsu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0075",
+      "text": "たまねぎ",
+      "category": "object",
+      "file": "object__tamanegi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0076",
+      "text": "じゃがいも",
+      "category": "object",
+      "file": "object__jagaimo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0077",
+      "text": "みかん",
+      "category": "object",
+      "file": "object__mikan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0078",
+      "text": "ぶどう",
+      "category": "object",
+      "file": "object__budou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0079",
+      "text": "いちご",
+      "category": "object",
+      "file": "object__ichigo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0080",
+      "text": "もも",
+      "category": "object",
+      "file": "object__momo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0081",
+      "text": "なし",
+      "category": "object",
+      "file": "object__nashi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0082",
+      "text": "すいか",
+      "category": "object",
+      "file": "object__suika__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0083",
+      "text": "めろん",
+      "category": "object",
+      "file": "object__meron__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0084",
+      "text": "ばなな",
+      "category": "object",
+      "file": "object__banana__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0085",
+      "text": "ぱいなっぷる",
+      "category": "object",
+      "file": "object__painappuru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0086",
+      "text": "れもん",
+      "category": "object",
+      "file": "object__remon__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0087",
+      "text": "さくらんぼ",
+      "category": "object",
+      "file": "object__sakuranbo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0088",
+      "text": "なす",
+      "category": "object",
+      "file": "object__nasu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0089",
+      "text": "ぴ゜まん",
+      "category": "object",
+      "file": "object__pi-man__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0090",
+      "text": "ほうれんそう",
+      "category": "object",
+      "file": "object__hourensou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0091",
+      "text": "きのこ",
+      "category": "object",
+      "file": "object__kinoko__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0092",
+      "text": "しめじ",
+      "category": "object",
+      "file": "object__shimeji__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0093",
+      "text": "えりんぎ",
+      "category": "object",
+      "file": "object__eringi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0094",
+      "text": "しいたけ",
+      "category": "object",
+      "file": "object__shiitake__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0095",
+      "text": "たまご",
+      "category": "object",
+      "file": "object__tamago__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0096",
+      "text": "さかな",
+      "category": "object",
+      "file": "object__sakana__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0097",
+      "text": "にく",
+      "category": "object",
+      "file": "object__niku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0098",
+      "text": "ぱんけ゜き",
+      "category": "object",
+      "file": "object__panke-ki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0099",
+      "text": "あいすくり゜む",
+      "category": "object",
+      "file": "object__aisukuri-mu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0100",
+      "text": "くっき゜",
+      "category": "object",
+      "file": "object__kukki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0101",
+      "text": "け゜き",
+      "category": "object",
+      "file": "object__ke-ki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0102",
+      "text": "ちょこれ゜と",
+      "category": "object",
+      "file": "object__chokore-to__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0103",
+      "text": "あめ",
+      "category": "object",
+      "file": "object__ame__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0104",
+      "text": "いぬ",
+      "category": "animal",
+      "file": "animal__inu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0105",
+      "text": "ねこ",
+      "category": "animal",
+      "file": "animal__neko__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0106",
+      "text": "うさぎ",
+      "category": "animal",
+      "file": "animal__usagi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0107",
+      "text": "さる",
+      "category": "animal",
+      "file": "animal__saru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0108",
+      "text": "とら",
+      "category": "animal",
+      "file": "animal__tora__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0109",
+      "text": "くま",
+      "category": "animal",
+      "file": "animal__kuma__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0110",
+      "text": "しか",
+      "category": "animal",
+      "file": "animal__shika__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0111",
+      "text": "ぞう",
+      "category": "animal",
+      "file": "animal__zou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0112",
+      "text": "きりん",
+      "category": "animal",
+      "file": "animal__kirin__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0113",
+      "text": "おおかみ",
+      "category": "animal",
+      "file": "animal__ookami__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0114",
+      "text": "きつね",
+      "category": "animal",
+      "file": "animal__kitsune__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0115",
+      "text": "たぬき",
+      "category": "animal",
+      "file": "animal__tanuki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0116",
+      "text": "ぱんだ",
+      "category": "animal",
+      "file": "animal__panda__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0117",
+      "text": "ぺんぎん",
+      "category": "animal",
+      "file": "animal__pengin__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0118",
+      "text": "こあら",
+      "category": "animal",
+      "file": "animal__koara__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0119",
+      "text": "かんがる゜",
+      "category": "animal",
+      "file": "animal__kangaru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0120",
+      "text": "らくだ",
+      "category": "animal",
+      "file": "animal__rakuda__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0121",
+      "text": "うま",
+      "category": "animal",
+      "file": "animal__uma__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0122",
+      "text": "うし",
+      "category": "animal",
+      "file": "animal__ushi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0123",
+      "text": "ぶた",
+      "category": "animal",
+      "file": "animal__buta__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0124",
+      "text": "ひつじ",
+      "category": "animal",
+      "file": "animal__hitsuji__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0125",
+      "text": "やぎ",
+      "category": "animal",
+      "file": "animal__yagi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0126",
+      "text": "にわとり",
+      "category": "animal",
+      "file": "animal__niwatori__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0127",
+      "text": "はと",
+      "category": "animal",
+      "file": "animal__hato__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0128",
+      "text": "すずめ",
+      "category": "animal",
+      "file": "animal__suzume__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0129",
+      "text": "かも",
+      "category": "animal",
+      "file": "animal__kamo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0130",
+      "text": "わし",
+      "category": "animal",
+      "file": "animal__washi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0131",
+      "text": "たか",
+      "category": "animal",
+      "file": "animal__taka__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0132",
+      "text": "ふくろう",
+      "category": "animal",
+      "file": "animal__fukurou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0133",
+      "text": "つばめ",
+      "category": "animal",
+      "file": "animal__tsubame__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0134",
+      "text": "いるか",
+      "category": "animal",
+      "file": "animal__iruka__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0135",
+      "text": "くじら",
+      "category": "animal",
+      "file": "animal__kujira__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0136",
+      "text": "さめ",
+      "category": "animal",
+      "file": "animal__same__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0137",
+      "text": "くらげ",
+      "category": "animal",
+      "file": "animal__kurage__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0138",
+      "text": "かめ",
+      "category": "animal",
+      "file": "animal__kame__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0139",
+      "text": "わに",
+      "category": "animal",
+      "file": "animal__wani__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0140",
+      "text": "へび",
+      "category": "animal",
+      "file": "animal__hebi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0141",
+      "text": "かえる",
+      "category": "animal",
+      "file": "animal__kaeru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0142",
+      "text": "とかげ",
+      "category": "animal",
+      "file": "animal__tokage__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0143",
+      "text": "かぶとむし",
+      "category": "animal",
+      "file": "animal__kabutomushi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0144",
+      "text": "くわがた",
+      "category": "animal",
+      "file": "animal__kuwagata__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0145",
+      "text": "ちょう",
+      "category": "animal",
+      "file": "animal__chou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0146",
+      "text": "はち",
+      "category": "animal",
+      "file": "animal__hachi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0147",
+      "text": "あり",
+      "category": "animal",
+      "file": "animal__ari__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0148",
+      "text": "てんとうむし",
+      "category": "animal",
+      "file": "animal__tentoumushi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0149",
+      "text": "こうえん",
+      "category": "place",
+      "file": "place__kouen__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0150",
+      "text": "がっこう",
+      "category": "place",
+      "file": "place__gakkou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0151",
+      "text": "えき",
+      "category": "place",
+      "file": "place__eki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0152",
+      "text": "みせ",
+      "category": "place",
+      "file": "place__mise__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0153",
+      "text": "いえ",
+      "category": "place",
+      "file": "place__ie__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0154",
+      "text": "へや",
+      "category": "place",
+      "file": "place__heya__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0155",
+      "text": "だいどころ",
+      "category": "place",
+      "file": "place__daidokoro__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0156",
+      "text": "ふろば",
+      "category": "place",
+      "file": "place__furoba__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0157",
+      "text": "といれ",
+      "category": "place",
+      "file": "place__toire__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0158",
+      "text": "かいしゃ",
+      "category": "place",
+      "file": "place__kaisha__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0159",
+      "text": "びょういん",
+      "category": "place",
+      "file": "place__byouin__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0160",
+      "text": "としょかん",
+      "category": "place",
+      "file": "place__toshokan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0161",
+      "text": "ゆうびんきょく",
+      "category": "place",
+      "file": "place__yuubinkyoku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0162",
+      "text": "ぎんこう",
+      "category": "place",
+      "file": "place__ginkou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0163",
+      "text": "す゜ぱ゜",
+      "category": "place",
+      "file": "place__su-pa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0164",
+      "text": "でぱ゜と",
+      "category": "place",
+      "file": "place__depa-to__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0165",
+      "text": "こんびに",
+      "category": "place",
+      "file": "place__konbini__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0166",
+      "text": "えいがかん",
+      "category": "place",
+      "file": "place__eigakan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0167",
+      "text": "びじゅつかん",
+      "category": "place",
+      "file": "place__bijutsukan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0168",
+      "text": "はくぶつかん",
+      "category": "place",
+      "file": "place__hakubutsukan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0169",
+      "text": "どうぶつえん",
+      "category": "place",
+      "file": "place__doubutsuen__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0170",
+      "text": "すいぞくかん",
+      "category": "place",
+      "file": "place__suizokukan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0171",
+      "text": "すたじあむ",
+      "category": "place",
+      "file": "place__sutajiamu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0172",
+      "text": "うみ",
+      "category": "place",
+      "file": "place__umi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0173",
+      "text": "やま",
+      "category": "place",
+      "file": "place__yama__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0174",
+      "text": "かわ",
+      "category": "place",
+      "file": "place__kawa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0175",
+      "text": "もり",
+      "category": "place",
+      "file": "place__mori__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0176",
+      "text": "はら",
+      "category": "place",
+      "file": "place__hara__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0177",
+      "text": "さとう",
+      "category": "place",
+      "file": "place__satou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0178",
+      "text": "みち",
+      "category": "place",
+      "file": "place__michi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0179",
+      "text": "はし",
+      "category": "place",
+      "file": "place__hashi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0180",
+      "text": "とんねる",
+      "category": "place",
+      "file": "place__tonneru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0181",
+      "text": "くうこう",
+      "category": "place",
+      "file": "place__kuukou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0182",
+      "text": "くるま",
+      "category": "place",
+      "file": "place__kuruma__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0183",
+      "text": "でんしゃ",
+      "category": "place",
+      "file": "place__densha__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0184",
+      "text": "ばす",
+      "category": "place",
+      "file": "place__basu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0185",
+      "text": "ふね",
+      "category": "place",
+      "file": "place__fune__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0186",
+      "text": "ひこうき",
+      "category": "place",
+      "file": "place__hikouki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0187",
+      "text": "えきまえ",
+      "category": "place",
+      "file": "place__ekimae__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0188",
+      "text": "ばいてん",
+      "category": "place",
+      "file": "place__baiten__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0189",
+      "text": "たいくかん",
+      "category": "place",
+      "file": "place__taikukan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0190",
+      "text": "こうどう",
+      "category": "place",
+      "file": "place__koudou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0191",
+      "text": "きょうしつ",
+      "category": "place",
+      "file": "place__kyoushitsu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0192",
+      "text": "ぐらうんど",
+      "category": "place",
+      "file": "place__guraundo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0193",
+      "text": "あるく",
+      "category": "action",
+      "file": "action__aruku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0194",
+      "text": "はしる",
+      "category": "action",
+      "file": "action__hashiru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0195",
+      "text": "とぶ",
+      "category": "action",
+      "file": "action__tobu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0196",
+      "text": "およぐ",
+      "category": "action",
+      "file": "action__oyogu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0197",
+      "text": "すわる",
+      "category": "action",
+      "file": "action__suwaru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0198",
+      "text": "たつ",
+      "category": "action",
+      "file": "action__tatsu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0199",
+      "text": "ねる",
+      "category": "action",
+      "file": "action__neru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0200",
+      "text": "おきる",
+      "category": "action",
+      "file": "action__okiru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0201",
+      "text": "たべる",
+      "category": "action",
+      "file": "action__taberu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0202",
+      "text": "のむ",
+      "category": "action",
+      "file": "action__nomu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0203",
+      "text": "つくる",
+      "category": "action",
+      "file": "action__tsukuru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0204",
+      "text": "あらう",
+      "category": "action",
+      "file": "action__arau__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0205",
+      "text": "みがく",
+      "category": "action",
+      "file": "action__migaku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0206",
+      "text": "よむ",
+      "category": "action",
+      "file": "action__yomu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0207",
+      "text": "かく",
+      "category": "action",
+      "file": "action__kaku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0208",
+      "text": "きく",
+      "category": "action",
+      "file": "action__kiku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0209",
+      "text": "はなす",
+      "category": "action",
+      "file": "action__hanasu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0210",
+      "text": "うたう",
+      "category": "action",
+      "file": "action__utau__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0211",
+      "text": "ひく",
+      "category": "action",
+      "file": "action__hiku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0212",
+      "text": "たたく",
+      "category": "action",
+      "file": "action__tataku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0213",
+      "text": "おす",
+      "category": "action",
+      "file": "action__osu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0214",
+      "text": "もつ",
+      "category": "action",
+      "file": "action__motsu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0215",
+      "text": "あげる",
+      "category": "action",
+      "file": "action__ageru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0216",
+      "text": "もらう",
+      "category": "action",
+      "file": "action__morau__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0217",
+      "text": "ひろう",
+      "category": "action",
+      "file": "action__hirou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0218",
+      "text": "わらう",
+      "category": "action",
+      "file": "action__warau__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0219",
+      "text": "なく",
+      "category": "action",
+      "file": "action__naku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0220",
+      "text": "おこる",
+      "category": "action",
+      "file": "action__okoru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0221",
+      "text": "おどる",
+      "category": "action",
+      "file": "action__odoru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0222",
+      "text": "つかむ",
+      "category": "action",
+      "file": "action__tsukamu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0223",
+      "text": "なげる",
+      "category": "action",
+      "file": "action__nageru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0224",
+      "text": "ける",
+      "category": "action",
+      "file": "action__keru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0225",
+      "text": "まわす",
+      "category": "action",
+      "file": "action__mawasu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0226",
+      "text": "ひねる",
+      "category": "action",
+      "file": "action__hineru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0227",
+      "text": "のばす",
+      "category": "action",
+      "file": "action__nobasu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0228",
+      "text": "ちぢめる",
+      "category": "action",
+      "file": "action__chijimeru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0229",
+      "text": "ならべる",
+      "category": "action",
+      "file": "action__naraberu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0230",
+      "text": "かぞえる",
+      "category": "action",
+      "file": "action__kazoeru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0231",
+      "text": "やすらぎ",
+      "category": "abstract",
+      "file": "abstract__yasuragi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0232",
+      "text": "おだやか",
+      "category": "abstract",
+      "file": "abstract__odayaka__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0233",
+      "text": "しずけさ",
+      "category": "abstract",
+      "file": "abstract__shizukesa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0234",
+      "text": "ひかり",
+      "category": "abstract",
+      "file": "abstract__hikari__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0235",
+      "text": "かぜ",
+      "category": "abstract",
+      "file": "abstract__kaze__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0236",
+      "text": "そら",
+      "category": "abstract",
+      "file": "abstract__sora__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0237",
+      "text": "ゆめ",
+      "category": "abstract",
+      "file": "abstract__yume__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0238",
+      "text": "ほし",
+      "category": "abstract",
+      "file": "abstract__hoshi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0239",
+      "text": "つき",
+      "category": "abstract",
+      "file": "abstract__tsuki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0240",
+      "text": "あさ",
+      "category": "abstract",
+      "file": "abstract__asa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0241",
+      "text": "よる",
+      "category": "abstract",
+      "file": "abstract__yoru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0242",
+      "text": "ねむけ",
+      "category": "abstract",
+      "file": "abstract__nemuke__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0243",
+      "text": "あんしん",
+      "category": "abstract",
+      "file": "abstract__anshin__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0244",
+      "text": "ゆったり",
+      "category": "abstract",
+      "file": "abstract__yuttari__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0245",
+      "text": "ふんわり",
+      "category": "abstract",
+      "file": "abstract__funwari__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0246",
+      "text": "なごみ",
+      "category": "abstract",
+      "file": "abstract__nagomi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0247",
+      "text": "やわらか",
+      "category": "abstract",
+      "file": "abstract__yawaraka__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0248",
+      "text": "かろやか",
+      "category": "abstract",
+      "file": "abstract__karoyaka__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0249",
+      "text": "しっとり",
+      "category": "abstract",
+      "file": "abstract__shittori__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0250",
+      "text": "ほのか",
+      "category": "abstract",
+      "file": "abstract__honoka__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0251",
+      "text": "きらめき",
+      "category": "abstract",
+      "file": "abstract__kirameki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0252",
+      "text": "ひだまり",
+      "category": "abstract",
+      "file": "abstract__hidamari__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0253",
+      "text": "さざなみ",
+      "category": "abstract",
+      "file": "abstract__sazanami__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0254",
+      "text": "せせらぎ",
+      "category": "abstract",
+      "file": "abstract__seseragi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0255",
+      "text": "こだま",
+      "category": "abstract",
+      "file": "abstract__kodama__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0256",
+      "text": "ぬくもり",
+      "category": "abstract",
+      "file": "abstract__nukumori__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0257",
+      "text": "ときめき",
+      "category": "abstract",
+      "file": "abstract__tokimeki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0258",
+      "text": "しあわせ",
+      "category": "abstract",
+      "file": "abstract__shiawase__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0259",
+      "text": "ここちよさ",
+      "category": "abstract",
+      "file": "abstract__kokochiyosa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0260",
+      "text": "めざめ",
+      "category": "abstract",
+      "file": "abstract__mezame__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0261",
+      "text": "えんてい",
+      "category": "place",
+      "file": "place__entei__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0262",
+      "text": "せんぷうき",
+      "category": "object",
+      "file": "object__senpuuki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0263",
+      "text": "ちりとり",
+      "category": "object",
+      "file": "object__chiritori__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0264",
+      "text": "ひこうき",
+      "category": "object",
+      "file": "object__hikouki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0265",
+      "text": "いかり",
+      "category": "abstract",
+      "file": "abstract__ikari__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0266",
+      "text": "ふあん",
+      "category": "abstract",
+      "file": "abstract__fuan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0267",
+      "text": "きぼう",
+      "category": "abstract",
+      "file": "abstract__kibou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0268",
+      "text": "まんぞく",
+      "category": "abstract",
+      "file": "abstract__manzoku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0269",
+      "text": "ちょうちょ",
+      "category": "animal",
+      "file": "animal__choucho__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0270",
+      "text": "ひよこ",
+      "category": "animal",
+      "file": "animal__hiyoko__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0271",
+      "text": "なまず",
+      "category": "animal",
+      "file": "animal__namazu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0272",
+      "text": "まつ",
+      "category": "action",
+      "file": "action__matsu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0273",
+      "text": "でんわ",
+      "category": "object",
+      "file": "object__denwa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0274",
+      "text": "たいくつ",
+      "category": "abstract",
+      "file": "abstract__taikutsu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0275",
+      "text": "おしいれ",
+      "category": "place",
+      "file": "place__oshiire__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0276",
+      "text": "じゆう",
+      "category": "abstract",
+      "file": "abstract__jiyuu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0277",
+      "text": "きる",
+      "category": "action",
+      "file": "action__kiru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0278",
+      "text": "かなしい",
+      "category": "abstract",
+      "file": "abstract__kanashii__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0279",
+      "text": "おそれ",
+      "category": "abstract",
+      "file": "abstract__osore__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0280",
+      "text": "たいいくかん",
+      "category": "place",
+      "file": "place__taiikukan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0281",
+      "text": "て゜ぶる",
+      "category": "object",
+      "file": "object__te-buru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0282",
+      "text": "まじめ",
+      "category": "abstract",
+      "file": "abstract__majime__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0283",
+      "text": "ぱんや",
+      "category": "place",
+      "file": "place__panya__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0284",
+      "text": "じてんしゃや",
+      "category": "place",
+      "file": "place__jitenshaya__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0285",
+      "text": "おさら",
+      "category": "object",
+      "file": "object__osara__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0286",
+      "text": "じむしょ",
+      "category": "place",
+      "file": "place__jimusho__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0287",
+      "text": "じしん",
+      "category": "abstract",
+      "file": "abstract__jishin__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0288",
+      "text": "ばすてい",
+      "category": "place",
+      "file": "place__basutei__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0289",
+      "text": "あい",
+      "category": "abstract",
+      "file": "abstract__ai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0290",
+      "text": "いく",
+      "category": "action",
+      "file": "action__iku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0291",
+      "text": "うぬぼれ",
+      "category": "abstract",
+      "file": "abstract__unubore__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0292",
+      "text": "あそぶ",
+      "category": "action",
+      "file": "action__asobu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0293",
+      "text": "うれしさ",
+      "category": "abstract",
+      "file": "abstract__ureshisa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0294",
+      "text": "しょくどう",
+      "category": "place",
+      "file": "place__shokudou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0295",
+      "text": "せんたくばさみ",
+      "category": "object",
+      "file": "object__sentakubasami__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0296",
+      "text": "さとう",
+      "category": "object",
+      "file": "object__satou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0297",
+      "text": "ちゅうしゃじょう",
+      "category": "place",
+      "file": "place__chuushajou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0298",
+      "text": "たんぼ",
+      "category": "place",
+      "file": "place__tanbo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0299",
+      "text": "やるき",
+      "category": "abstract",
+      "file": "abstract__yaruki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0300",
+      "text": "もやもや",
+      "category": "abstract",
+      "file": "abstract__moyamoya__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0301",
+      "text": "て゜ぷ",
+      "category": "object",
+      "file": "object__te-pu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0302",
+      "text": "ほうき",
+      "category": "object",
+      "file": "object__houki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0303",
+      "text": "じしょ",
+      "category": "object",
+      "file": "object__jisho__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0304",
+      "text": "なみだ",
+      "category": "abstract",
+      "file": "abstract__namida__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0305",
+      "text": "でんとう",
+      "category": "object",
+      "file": "object__dentou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0306",
+      "text": "かんどう",
+      "category": "abstract",
+      "file": "abstract__kandou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0307",
+      "text": "よわさ",
+      "category": "abstract",
+      "file": "abstract__yowasa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0308",
+      "text": "こおり",
+      "category": "object",
+      "file": "object__koori__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0309",
+      "text": "ばった",
+      "category": "animal",
+      "file": "animal__batta__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0310",
+      "text": "おかし",
+      "category": "object",
+      "file": "object__okashi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0311",
+      "text": "じんじゃ",
+      "category": "place",
+      "file": "place__jinja__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0312",
+      "text": "いけ",
+      "category": "place",
+      "file": "place__ike__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0313",
+      "text": "れいぞうこ",
+      "category": "object",
+      "file": "object__reizouko__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0314",
+      "text": "つらさ",
+      "category": "abstract",
+      "file": "abstract__tsurasa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0315",
+      "text": "ならう",
+      "category": "action",
+      "file": "action__narau__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0316",
+      "text": "くうしゃ",
+      "category": "place",
+      "file": "place__kuusha__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0317",
+      "text": "しめる",
+      "category": "action",
+      "file": "action__shimeru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0318",
+      "text": "しんぶん",
+      "category": "object",
+      "file": "object__shinbun__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0319",
+      "text": "ぬぐ",
+      "category": "action",
+      "file": "action__nugu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0320",
+      "text": "もぐら",
+      "category": "animal",
+      "file": "animal__mogura__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0321",
+      "text": "かに",
+      "category": "animal",
+      "file": "animal__kani__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0322",
+      "text": "びよういん",
+      "category": "place",
+      "file": "place__biyouin__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0323",
+      "text": "ひげそり",
+      "category": "object",
+      "file": "object__higesori__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0324",
+      "text": "げんき",
+      "category": "abstract",
+      "file": "abstract__genki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0325",
+      "text": "とり",
+      "category": "animal",
+      "file": "animal__tori__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0326",
+      "text": "あしか",
+      "category": "animal",
+      "file": "animal__ashika__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0327",
+      "text": "てら",
+      "category": "place",
+      "file": "place__tera__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0328",
+      "text": "ふく",
+      "category": "object",
+      "file": "object__fuku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0329",
+      "text": "まもる",
+      "category": "action",
+      "file": "action__mamoru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0330",
+      "text": "みる",
+      "category": "action",
+      "file": "action__miru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0331",
+      "text": "かもめ",
+      "category": "animal",
+      "file": "animal__kamome__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0332",
+      "text": "さがす",
+      "category": "action",
+      "file": "action__sagasu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0333",
+      "text": "おてあらい",
+      "category": "place",
+      "file": "place__otearai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0334",
+      "text": "ごみばこ",
+      "category": "object",
+      "file": "object__gomibako__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0335",
+      "text": "まち",
+      "category": "place",
+      "file": "place__machi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0336",
+      "text": "がまん",
+      "category": "abstract",
+      "file": "abstract__gaman__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0337",
+      "text": "やさしさ",
+      "category": "abstract",
+      "file": "abstract__yasashisa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0338",
+      "text": "つたえる",
+      "category": "action",
+      "file": "action__tsutaeru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0339",
+      "text": "おもいで",
+      "category": "abstract",
+      "file": "abstract__omoide__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0340",
+      "text": "かいがん",
+      "category": "place",
+      "file": "place__kaigan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0341",
+      "text": "ろてんぶろ",
+      "category": "place",
+      "file": "place__rotenburo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0342",
+      "text": "めだか",
+      "category": "animal",
+      "file": "animal__medaka__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0343",
+      "text": "たこ",
+      "category": "animal",
+      "file": "animal__tako__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0344",
+      "text": "いたみ",
+      "category": "abstract",
+      "file": "abstract__itami__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0345",
+      "text": "はし",
+      "category": "object",
+      "file": "object__hashi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0346",
+      "text": "ねがい",
+      "category": "abstract",
+      "file": "abstract__negai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0347",
+      "text": "のはら",
+      "category": "place",
+      "file": "place__nohara__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0348",
+      "text": "つかう",
+      "category": "action",
+      "file": "action__tsukau__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0349",
+      "text": "なでる",
+      "category": "action",
+      "file": "action__naderu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0350",
+      "text": "どきどき",
+      "category": "abstract",
+      "file": "abstract__dokidoki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0351",
+      "text": "こうさてん",
+      "category": "place",
+      "file": "place__kousaten__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0352",
+      "text": "せいちょう",
+      "category": "abstract",
+      "file": "abstract__seichou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0353",
+      "text": "かえる",
+      "category": "action",
+      "file": "action__kaeru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0354",
+      "text": "わける",
+      "category": "action",
+      "file": "action__wakeru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0355",
+      "text": "おしえる",
+      "category": "action",
+      "file": "action__oshieru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0356",
+      "text": "いじ",
+      "category": "abstract",
+      "file": "abstract__iji__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0357",
+      "text": "つかれ",
+      "category": "abstract",
+      "file": "abstract__tsukare__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0358",
+      "text": "じてんしゃ",
+      "category": "object",
+      "file": "object__jitensha__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0359",
+      "text": "すいとう",
+      "category": "object",
+      "file": "object__suitou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0360",
+      "text": "こうもり",
+      "category": "animal",
+      "file": "animal__koumori__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0361",
+      "text": "ばんそうこう",
+      "category": "object",
+      "file": "object__bansoukou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0362",
+      "text": "おく",
+      "category": "action",
+      "file": "action__oku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0363",
+      "text": "とんぼ",
+      "category": "animal",
+      "file": "animal__tonbo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0364",
+      "text": "ふでばこ",
+      "category": "object",
+      "file": "object__fudebako__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0365",
+      "text": "ほんや",
+      "category": "place",
+      "file": "place__honya__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0366",
+      "text": "ろうか",
+      "category": "place",
+      "file": "place__rouka__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0367",
+      "text": "こうちゃ",
+      "category": "object",
+      "file": "object__koucha__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0368",
+      "text": "たのしみ",
+      "category": "abstract",
+      "file": "abstract__tanoshimi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0369",
+      "text": "くすりや",
+      "category": "place",
+      "file": "place__kusuriya__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0370",
+      "text": "いか",
+      "category": "animal",
+      "file": "animal__ika__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0371",
+      "text": "ふまん",
+      "category": "abstract",
+      "file": "abstract__fuman__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0372",
+      "text": "きんちょう",
+      "category": "abstract",
+      "file": "abstract__kinchou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0373",
+      "text": "あこがれ",
+      "category": "abstract",
+      "file": "abstract__akogare__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0374",
+      "text": "のんびり",
+      "category": "abstract",
+      "file": "abstract__nonbiri__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0375",
+      "text": "のり",
+      "category": "object",
+      "file": "object__nori__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0376",
+      "text": "しんぱい",
+      "category": "abstract",
+      "file": "abstract__shinpai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0377",
+      "text": "おにやんま",
+      "category": "animal",
+      "file": "animal__oniyanma__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0378",
+      "text": "さかな",
+      "category": "animal",
+      "file": "animal__sakana__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0379",
+      "text": "はんが゜",
+      "category": "object",
+      "file": "object__hanga__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0380",
+      "text": "きもち",
+      "category": "abstract",
+      "file": "abstract__kimochi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0381",
+      "text": "せみ",
+      "category": "animal",
+      "file": "animal__semi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0382",
+      "text": "しつぼう",
+      "category": "abstract",
+      "file": "abstract__shitsubou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0383",
+      "text": "ふく",
+      "category": "action",
+      "file": "action__fuku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0384",
+      "text": "しんらい",
+      "category": "abstract",
+      "file": "abstract__shinrai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0385",
+      "text": "ほこり",
+      "category": "abstract",
+      "file": "abstract__hokori__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0386",
+      "text": "こわい",
+      "category": "abstract",
+      "file": "abstract__kowai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0387",
+      "text": "ぼ゜るぺん",
+      "category": "object",
+      "file": "object__bo-rupen__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0388",
+      "text": "しょくば",
+      "category": "place",
+      "file": "place__shokuba__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0389",
+      "text": "とじる",
+      "category": "action",
+      "file": "action__tojiru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0390",
+      "text": "げんかん",
+      "category": "place",
+      "file": "place__genkan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0391",
+      "text": "けしごむ",
+      "category": "object",
+      "file": "object__keshigomu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0392",
+      "text": "はこぶ",
+      "category": "action",
+      "file": "action__hakobu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0393",
+      "text": "しゃち",
+      "category": "animal",
+      "file": "animal__shachi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0394",
+      "text": "おっとせい",
+      "category": "animal",
+      "file": "animal__ottosei__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0395",
+      "text": "あける",
+      "category": "action",
+      "file": "action__akeru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0396",
+      "text": "おもいやり",
+      "category": "abstract",
+      "file": "abstract__omoiyari__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0397",
+      "text": "さけぶ",
+      "category": "action",
+      "file": "action__sakebu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0398",
+      "text": "のる",
+      "category": "action",
+      "file": "action__noru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0399",
+      "text": "かいだん",
+      "category": "object",
+      "file": "object__kaidan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0400",
+      "text": "こうふん",
+      "category": "abstract",
+      "file": "abstract__koufun__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0401",
+      "text": "いじわる",
+      "category": "abstract",
+      "file": "abstract__ijiwaru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0402",
+      "text": "まごころ",
+      "category": "abstract",
+      "file": "abstract__magokoro__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0403",
+      "text": "ほん",
+      "category": "object",
+      "file": "object__hon__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0404",
+      "text": "つよさ",
+      "category": "abstract",
+      "file": "abstract__tsuyosa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0405",
+      "text": "とる",
+      "category": "action",
+      "file": "action__toru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0406",
+      "text": "けす",
+      "category": "action",
+      "file": "action__kesu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0407",
+      "text": "えび",
+      "category": "animal",
+      "file": "animal__ebi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0408",
+      "text": "ごはん",
+      "category": "object",
+      "file": "object__gohan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0409",
+      "text": "とけい",
+      "category": "object",
+      "file": "object__tokei__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0410",
+      "text": "まど",
+      "category": "object",
+      "file": "object__mado__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0411",
+      "text": "てがみ",
+      "category": "object",
+      "file": "object__tegami__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0412",
+      "text": "しゃぼん",
+      "category": "object",
+      "file": "object__shabon__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0413",
+      "text": "おもちゃ",
+      "category": "object",
+      "file": "object__omocha__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0414",
+      "text": "せんたくき",
+      "category": "object",
+      "file": "object__sentakuki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0415",
+      "text": "てぬぐい",
+      "category": "object",
+      "file": "object__tenugui__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0416",
+      "text": "さいふ",
+      "category": "object",
+      "file": "object__saifu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0417",
+      "text": "くすり",
+      "category": "object",
+      "file": "object__kusuri__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0418",
+      "text": "はがき",
+      "category": "object",
+      "file": "object__hagaki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0419",
+      "text": "とびら",
+      "category": "object",
+      "file": "object__tobira__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0420",
+      "text": "ねんど",
+      "category": "object",
+      "file": "object__nendo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0421",
+      "text": "えのぐ",
+      "category": "object",
+      "file": "object__enogu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0422",
+      "text": "たいこ",
+      "category": "object",
+      "file": "object__taiko__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0423",
+      "text": "まめ",
+      "category": "object",
+      "file": "object__mame__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0424",
+      "text": "こめ",
+      "category": "object",
+      "file": "object__kome__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0425",
+      "text": "しお",
+      "category": "object",
+      "file": "object__shio__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0426",
+      "text": "きって",
+      "category": "object",
+      "file": "object__kitte__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0427",
+      "text": "はなび",
+      "category": "object",
+      "file": "object__hanabi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0428",
+      "text": "ろうそく",
+      "category": "object",
+      "file": "object__rousoku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0429",
+      "text": "ゆびわ",
+      "category": "object",
+      "file": "object__yubiwa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0430",
+      "text": "ゆきだるま",
+      "category": "object",
+      "file": "object__yukidaruma__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0431",
+      "text": "おはし",
+      "category": "object",
+      "file": "object__ohashi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0432",
+      "text": "ふらいぱん",
+      "category": "object",
+      "file": "object__furaipan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0433",
+      "text": "びん",
+      "category": "object",
+      "file": "object__bin__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0434",
+      "text": "かん",
+      "category": "object",
+      "file": "object__kan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0435",
+      "text": "くぎ",
+      "category": "object",
+      "file": "object__kugi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0436",
+      "text": "ひも",
+      "category": "object",
+      "file": "object__himo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0437",
+      "text": "ふね",
+      "category": "object",
+      "file": "object__fune__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0438",
+      "text": "くるま",
+      "category": "object",
+      "file": "object__kuruma__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0439",
+      "text": "でんしゃ",
+      "category": "object",
+      "file": "object__densha__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0440",
+      "text": "ふうとう",
+      "category": "object",
+      "file": "object__fuutou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0441",
+      "text": "はけ",
+      "category": "object",
+      "file": "object__hake__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0442",
+      "text": "すな",
+      "category": "object",
+      "file": "object__suna__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0443",
+      "text": "いし",
+      "category": "object",
+      "file": "object__ishi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0444",
+      "text": "がむ",
+      "category": "object",
+      "file": "object__gamu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0445",
+      "text": "ち゜ず",
+      "category": "object",
+      "file": "object__chi-zu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0446",
+      "text": "みそ",
+      "category": "object",
+      "file": "object__miso__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0447",
+      "text": "しょうゆ",
+      "category": "object",
+      "file": "object__shouyu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0448",
+      "text": "おもち",
+      "category": "object",
+      "file": "object__omochi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0449",
+      "text": "てんぷら",
+      "category": "object",
+      "file": "object__tenpura__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0450",
+      "text": "さけ",
+      "category": "animal",
+      "file": "animal__sake__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0451",
+      "text": "まぐろ",
+      "category": "animal",
+      "file": "animal__maguro__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0452",
+      "text": "たい",
+      "category": "animal",
+      "file": "animal__tai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0453",
+      "text": "ねずみ",
+      "category": "animal",
+      "file": "animal__nezumi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0454",
+      "text": "たつ",
+      "category": "animal",
+      "file": "animal__tatsu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0455",
+      "text": "りゅう",
+      "category": "animal",
+      "file": "animal__ryuu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0456",
+      "text": "むし",
+      "category": "animal",
+      "file": "animal__mushi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0457",
+      "text": "ほたる",
+      "category": "animal",
+      "file": "animal__hotaru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0458",
+      "text": "こい",
+      "category": "animal",
+      "file": "animal__koi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0459",
+      "text": "かたつむり",
+      "category": "animal",
+      "file": "animal__katatsumuri__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0460",
+      "text": "くも",
+      "category": "animal",
+      "file": "animal__kumo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0461",
+      "text": "ひょう",
+      "category": "animal",
+      "file": "animal__hyou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0462",
+      "text": "あひる",
+      "category": "animal",
+      "file": "animal__ahiru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0463",
+      "text": "ぺりかん",
+      "category": "animal",
+      "file": "animal__perikan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0464",
+      "text": "そら",
+      "category": "place",
+      "file": "place__sora__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0465",
+      "text": "くも",
+      "category": "place",
+      "file": "place__kumo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0466",
+      "text": "つき",
+      "category": "place",
+      "file": "place__tsuki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0467",
+      "text": "ほし",
+      "category": "place",
+      "file": "place__hoshi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0468",
+      "text": "たいよう",
+      "category": "place",
+      "file": "place__taiyou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0469",
+      "text": "うち",
+      "category": "place",
+      "file": "place__uchi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0470",
+      "text": "おふろ",
+      "category": "place",
+      "file": "place__ofuro__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0471",
+      "text": "にわ",
+      "category": "place",
+      "file": "place__niwa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0472",
+      "text": "たうえ",
+      "category": "place",
+      "file": "place__taue__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0473",
+      "text": "はたけ",
+      "category": "place",
+      "file": "place__hatake__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0474",
+      "text": "こうじょう",
+      "category": "place",
+      "file": "place__koujou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0475",
+      "text": "みなと",
+      "category": "place",
+      "file": "place__minato__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0476",
+      "text": "おてら",
+      "category": "place",
+      "file": "place__otera__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0477",
+      "text": "ひろば",
+      "category": "place",
+      "file": "place__hiroba__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0478",
+      "text": "たに",
+      "category": "place",
+      "file": "place__tani__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0479",
+      "text": "みさき",
+      "category": "place",
+      "file": "place__misaki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0480",
+      "text": "さかみち",
+      "category": "place",
+      "file": "place__sakamichi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0481",
+      "text": "しやくしょ",
+      "category": "place",
+      "file": "place__shiyakusho__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0482",
+      "text": "けいさつしょ",
+      "category": "place",
+      "file": "place__keisatsusho__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0483",
+      "text": "さわる",
+      "category": "action",
+      "file": "action__sawaru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0484",
+      "text": "まげる",
+      "category": "action",
+      "file": "action__mageru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0485",
+      "text": "はいる",
+      "category": "action",
+      "file": "action__hairu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0486",
+      "text": "でる",
+      "category": "action",
+      "file": "action__deru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0487",
+      "text": "つける",
+      "category": "action",
+      "file": "action__tsukeru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0488",
+      "text": "ならぶ",
+      "category": "action",
+      "file": "action__narabu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0489",
+      "text": "まがる",
+      "category": "action",
+      "file": "action__magaru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0490",
+      "text": "わたる",
+      "category": "action",
+      "file": "action__wataru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0491",
+      "text": "くる",
+      "category": "action",
+      "file": "action__kuru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0492",
+      "text": "なおす",
+      "category": "action",
+      "file": "action__naosu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0493",
+      "text": "かくす",
+      "category": "action",
+      "file": "action__kakusu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0494",
+      "text": "まなぶ",
+      "category": "action",
+      "file": "action__manabu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0495",
+      "text": "わすれる",
+      "category": "action",
+      "file": "action__wasureru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0496",
+      "text": "おぼえる",
+      "category": "action",
+      "file": "action__oboeru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0497",
+      "text": "つかれる",
+      "category": "action",
+      "file": "action__tsukareru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0498",
+      "text": "いそぐ",
+      "category": "action",
+      "file": "action__isogu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0499",
+      "text": "はたらく",
+      "category": "action",
+      "file": "action__hataraku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0500",
+      "text": "やすむ",
+      "category": "action",
+      "file": "action__yasumu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0501",
+      "text": "ほめる",
+      "category": "action",
+      "file": "action__homeru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0502",
+      "text": "しかる",
+      "category": "action",
+      "file": "action__shikaru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0503",
+      "text": "おちる",
+      "category": "action",
+      "file": "action__ochiru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0504",
+      "text": "たてる",
+      "category": "action",
+      "file": "action__tateru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0505",
+      "text": "あつめる",
+      "category": "action",
+      "file": "action__atsumeru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0506",
+      "text": "くばる",
+      "category": "action",
+      "file": "action__kubaru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0507",
+      "text": "あまえる",
+      "category": "action",
+      "file": "action__amaeru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0508",
+      "text": "ふりむく",
+      "category": "action",
+      "file": "action__furimuku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0509",
+      "text": "こころ",
+      "category": "abstract",
+      "file": "abstract__kokoro__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0510",
+      "text": "かなしみ",
+      "category": "abstract",
+      "file": "abstract__kanashimi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0511",
+      "text": "よろこび",
+      "category": "abstract",
+      "file": "abstract__yorokobi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0512",
+      "text": "おもい",
+      "category": "abstract",
+      "file": "abstract__omoi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0513",
+      "text": "ことば",
+      "category": "abstract",
+      "file": "abstract__kotoba__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0514",
+      "text": "おと",
+      "category": "abstract",
+      "file": "abstract__oto__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0515",
+      "text": "におい",
+      "category": "abstract",
+      "file": "abstract__nioi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0516",
+      "text": "あじ",
+      "category": "abstract",
+      "file": "abstract__aji__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0517",
+      "text": "いろ",
+      "category": "abstract",
+      "file": "abstract__iro__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0518",
+      "text": "かたち",
+      "category": "abstract",
+      "file": "abstract__katachi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0519",
+      "text": "ちから",
+      "category": "abstract",
+      "file": "abstract__chikara__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0520",
+      "text": "じかん",
+      "category": "abstract",
+      "file": "abstract__jikan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0521",
+      "text": "おんど",
+      "category": "abstract",
+      "file": "abstract__ondo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0522",
+      "text": "しつど",
+      "category": "abstract",
+      "file": "abstract__shitsudo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0523",
+      "text": "いのり",
+      "category": "abstract",
+      "file": "abstract__inori__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0524",
+      "text": "ゆうき",
+      "category": "abstract",
+      "file": "abstract__yuuki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0525",
+      "text": "どりょく",
+      "category": "abstract",
+      "file": "abstract__doryoku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0526",
+      "text": "へいわ",
+      "category": "abstract",
+      "file": "abstract__heiwa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0527",
+      "text": "せいぎ",
+      "category": "abstract",
+      "file": "abstract__seigi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0528",
+      "text": "うそ",
+      "category": "abstract",
+      "file": "abstract__uso__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0529",
+      "text": "まこと",
+      "category": "abstract",
+      "file": "abstract__makoto__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0530",
+      "text": "かな",
+      "category": "abstract",
+      "file": "abstract__kana__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0531",
+      "text": "じゅんび",
+      "category": "abstract",
+      "file": "abstract__junbi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0532",
+      "text": "うん",
+      "category": "abstract",
+      "file": "abstract__un__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0533",
+      "text": "そんざい",
+      "category": "abstract",
+      "file": "abstract__sonzai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0534",
+      "text": "くうき",
+      "category": "abstract",
+      "file": "abstract__kuuki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0535",
+      "text": "へいき",
+      "category": "abstract",
+      "file": "abstract__heiki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0536",
+      "text": "ちえ",
+      "category": "abstract",
+      "file": "abstract__chie__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0537",
+      "text": "りゆう",
+      "category": "abstract",
+      "file": "abstract__riyuu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0538",
+      "text": "かんしゃ",
+      "category": "abstract",
+      "file": "abstract__kansha__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0539",
+      "text": "たいせつ",
+      "category": "abstract",
+      "file": "abstract__taisetsu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0540",
+      "text": "いみ",
+      "category": "abstract",
+      "file": "abstract__imi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0541",
+      "text": "あきらめ",
+      "category": "abstract",
+      "file": "abstract__akirame__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0542",
+      "text": "しんか",
+      "category": "abstract",
+      "file": "abstract__shinka__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0543",
+      "text": "へんか",
+      "category": "abstract",
+      "file": "abstract__henka__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0544",
+      "text": "くふう",
+      "category": "abstract",
+      "file": "abstract__kufuu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0545",
+      "text": "そくど",
+      "category": "abstract",
+      "file": "abstract__sokudo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0546",
+      "text": "しゅうかん",
+      "category": "abstract",
+      "file": "abstract__shuukan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0547",
+      "text": "さいご",
+      "category": "abstract",
+      "file": "abstract__saigo__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0548",
+      "text": "げんかい",
+      "category": "abstract",
+      "file": "abstract__genkai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0549",
+      "text": "きおく",
+      "category": "abstract",
+      "file": "abstract__kioku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0550",
+      "text": "らじお",
+      "category": "object",
+      "file": "object__rajio__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0551",
+      "text": "か゜ど",
+      "category": "object",
+      "file": "object__ka-do__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0552",
+      "text": "こ゜ど",
+      "category": "object",
+      "file": "object__ko-do__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0553",
+      "text": "すいっち",
+      "category": "object",
+      "file": "object__suicchi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0554",
+      "text": "たぶれっと",
+      "category": "object",
+      "file": "object__taburetto__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0555",
+      "text": "いやほん",
+      "category": "object",
+      "file": "object__iyahon__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0556",
+      "text": "りもこん",
+      "category": "object",
+      "file": "object__rimokon__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0557",
+      "text": "ひ゜た゜",
+      "category": "object",
+      "file": "object__hi-ta__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0558",
+      "text": "あいろん",
+      "category": "object",
+      "file": "object__airon__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0559",
+      "text": "お゜ぶん",
+      "category": "object",
+      "file": "object__o-bun__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0560",
+      "text": "こんろ",
+      "category": "object",
+      "file": "object__konro__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0561",
+      "text": "でんたく",
+      "category": "object",
+      "file": "object__dentaku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0562",
+      "text": "こぴ゜き",
+      "category": "object",
+      "file": "object__kopi-ki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0563",
+      "text": "みしん",
+      "category": "object",
+      "file": "object__mishin__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0564",
+      "text": "きかい",
+      "category": "object",
+      "file": "object__kikai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0565",
+      "text": "でんげん",
+      "category": "object",
+      "file": "object__dengen__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0566",
+      "text": "ろくおんき",
+      "category": "object",
+      "file": "object__rokuonki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0567",
+      "text": "でんきゅう",
+      "category": "object",
+      "file": "object__denkyuu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0568",
+      "text": "でんせん",
+      "category": "object",
+      "file": "object__densen__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0569",
+      "text": "はかり",
+      "category": "object",
+      "file": "object__hakari__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0570",
+      "text": "すぴ゜か゜",
+      "category": "object",
+      "file": "object__supi-ka__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0571",
+      "text": "まいく",
+      "category": "object",
+      "file": "object__maiku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0572",
+      "text": "れこ゜だ゜",
+      "category": "object",
+      "file": "object__reko-da__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0573",
+      "text": "ぷりんた゜",
+      "category": "object",
+      "file": "object__purinta__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0574",
+      "text": "すきゃな゜",
+      "category": "object",
+      "file": "object__sukyana__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0575",
+      "text": "ちゅういでん",
+      "category": "object",
+      "file": "object__chuuiden__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0576",
+      "text": "かちでん",
+      "category": "object",
+      "file": "object__kachiden__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0577",
+      "text": "おんき",
+      "category": "object",
+      "file": "object__onki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0578",
+      "text": "じゅうでん",
+      "category": "object",
+      "file": "object__juuden__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0579",
+      "text": "しゃしん",
+      "category": "object",
+      "file": "object__shashin__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0580",
+      "text": "てちょう",
+      "category": "object",
+      "file": "object__techou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0581",
+      "text": "けいたい",
+      "category": "object",
+      "file": "object__keitai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0582",
+      "text": "らんどせる",
+      "category": "object",
+      "file": "object__randoseru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0583",
+      "text": "せ゜た゜",
+      "category": "object",
+      "file": "object__se-ta__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0584",
+      "text": "ますく",
+      "category": "object",
+      "file": "object__masuku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0585",
+      "text": "てぃっしゅ",
+      "category": "object",
+      "file": "object__te-sshu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0586",
+      "text": "けいたいでんわ",
+      "category": "object",
+      "file": "object__keitaidenwa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0587",
+      "text": "じどうしゃ",
+      "category": "object",
+      "file": "object__jidousha__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0588",
+      "text": "ばす",
+      "category": "object",
+      "file": "object__basu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0589",
+      "text": "えれべ゜た゜",
+      "category": "object",
+      "file": "object__erebe-ta__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0590",
+      "text": "えすかれ゜た゜",
+      "category": "object",
+      "file": "object__esukare-ta__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0591",
+      "text": "れいとうこ",
+      "category": "object",
+      "file": "object__reitouko__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0592",
+      "text": "でんきすたんど",
+      "category": "object",
+      "file": "object__denkisutando__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0593",
+      "text": "けいさんき",
+      "category": "object",
+      "file": "object__keisanki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0594",
+      "text": "ほっちきす",
+      "category": "object",
+      "file": "object__hocchikisu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0595",
+      "text": "しゃ゜ぷぺん",
+      "category": "object",
+      "file": "object__sha-pupen__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0596",
+      "text": "おちゃわん",
+      "category": "object",
+      "file": "object__ochawan__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0597",
+      "text": "どあ",
+      "category": "object",
+      "file": "object__doa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0598",
+      "text": "きっぷ",
+      "category": "object",
+      "file": "object__kippu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0599",
+      "text": "すりっぱ",
+      "category": "object",
+      "file": "object__surippa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0600",
+      "text": "がっこうようひん",
+      "category": "object",
+      "file": "object__gakkouyouhin__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0601",
+      "text": "ばけつ",
+      "category": "object",
+      "file": "object__baketsu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0602",
+      "text": "そうじき",
+      "category": "object",
+      "file": "object__soujiki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0603",
+      "text": "はんかち",
+      "category": "object",
+      "file": "object__hankachi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0604",
+      "text": "しんぶんし",
+      "category": "object",
+      "file": "object__shinbunshi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0605",
+      "text": "ぽすた゜",
+      "category": "object",
+      "file": "object__posuta__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0606",
+      "text": "でんりょく",
+      "category": "object",
+      "file": "object__denryoku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0607",
+      "text": "おかね",
+      "category": "object",
+      "file": "object__okane__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0608",
+      "text": "きんこ",
+      "category": "object",
+      "file": "object__kinko__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0609",
+      "text": "からす",
+      "category": "animal",
+      "file": "animal__karasu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0610",
+      "text": "いわし",
+      "category": "animal",
+      "file": "animal__iwashi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0611",
+      "text": "か",
+      "category": "animal",
+      "file": "animal__ka__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0612",
+      "text": "ありくい",
+      "category": "animal",
+      "file": "animal__arikui__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0613",
+      "text": "ほてる",
+      "category": "place",
+      "file": "place__hoteru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0614",
+      "text": "れすとらん",
+      "category": "place",
+      "file": "place__resutoran__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0615",
+      "text": "ゆうえんち",
+      "category": "place",
+      "file": "place__yuuenchi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0616",
+      "text": "はなばたけ",
+      "category": "place",
+      "file": "place__hanabatake__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0617",
+      "text": "ゆきやま",
+      "category": "place",
+      "file": "place__yukiyama__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0618",
+      "text": "しょうてんがい",
+      "category": "place",
+      "file": "place__shoutengai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0619",
+      "text": "にくや",
+      "category": "place",
+      "file": "place__nikuya__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0620",
+      "text": "さかなや",
+      "category": "place",
+      "file": "place__sakanaya__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0621",
+      "text": "やおや",
+      "category": "place",
+      "file": "place__yaoya__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0622",
+      "text": "がっこうこう",
+      "category": "place",
+      "file": "place__gakkoukou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0623",
+      "text": "いう",
+      "category": "action",
+      "file": "action__iu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0624",
+      "text": "かう",
+      "category": "action",
+      "file": "action__kau__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0625",
+      "text": "うる",
+      "category": "action",
+      "file": "action__uru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0626",
+      "text": "のぞく",
+      "category": "action",
+      "file": "action__nozoku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0627",
+      "text": "でかける",
+      "category": "action",
+      "file": "action__dekakeru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0628",
+      "text": "でんわする",
+      "category": "action",
+      "file": "action__denwasuru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0629",
+      "text": "べんきょうする",
+      "category": "action",
+      "file": "action__benkyousuru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0630",
+      "text": "りょうりする",
+      "category": "action",
+      "file": "action__ryourisuru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0631",
+      "text": "うれしい",
+      "category": "abstract",
+      "file": "abstract__ureshii__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0632",
+      "text": "たのしい",
+      "category": "abstract",
+      "file": "abstract__tanoshii__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0633",
+      "text": "いたい",
+      "category": "abstract",
+      "file": "abstract__itai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0634",
+      "text": "つかれる",
+      "category": "abstract",
+      "file": "abstract__tsukareru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0635",
+      "text": "まもり",
+      "category": "abstract",
+      "file": "abstract__mamori__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0636",
+      "text": "ゆるし",
+      "category": "abstract",
+      "file": "abstract__yurushi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0637",
+      "text": "ひみつ",
+      "category": "abstract",
+      "file": "abstract__himitsu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0638",
+      "text": "せかい",
+      "category": "abstract",
+      "file": "abstract__sekai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0639",
+      "text": "やすみ",
+      "category": "abstract",
+      "file": "abstract__yasumi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0640",
+      "text": "なやみ",
+      "category": "abstract",
+      "file": "abstract__nayami__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0641",
+      "text": "くやしさ",
+      "category": "abstract",
+      "file": "abstract__kuyashisa__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0642",
+      "text": "こうふく",
+      "category": "abstract",
+      "file": "abstract__koufuku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0643",
+      "text": "なかよし",
+      "category": "abstract",
+      "file": "abstract__nakayoshi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0644",
+      "text": "おちつき",
+      "category": "abstract",
+      "file": "abstract__ochitsuki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0645",
+      "text": "きずな",
+      "category": "abstract",
+      "file": "abstract__kizuna__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0646",
+      "text": "するめ",
+      "category": "object",
+      "file": "object__surume__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0647",
+      "text": "ざっし",
+      "category": "object",
+      "file": "object__zasshi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0648",
+      "text": "しょっき",
+      "category": "object",
+      "file": "object__shokki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0649",
+      "text": "えほん",
+      "category": "object",
+      "file": "object__ehon__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0650",
+      "text": "めいし",
+      "category": "object",
+      "file": "object__meishi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0651",
+      "text": "はんこ",
+      "category": "object",
+      "file": "object__hanko__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0652",
+      "text": "くれよん",
+      "category": "object",
+      "file": "object__kureyon__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0653",
+      "text": "みずぎ",
+      "category": "object",
+      "file": "object__mizugi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0654",
+      "text": "ばっぐ",
+      "category": "object",
+      "file": "object__baggu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0655",
+      "text": "りゅっく",
+      "category": "object",
+      "file": "object__ryukku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0656",
+      "text": "おみせ",
+      "category": "place",
+      "file": "place__omise__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0657",
+      "text": "きっさてん",
+      "category": "place",
+      "file": "place__kissaten__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0658",
+      "text": "ぷ゜る",
+      "category": "place",
+      "file": "place__pu-ru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0659",
+      "text": "てつだう",
+      "category": "action",
+      "file": "action__tetsudau__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0660",
+      "text": "そだてる",
+      "category": "action",
+      "file": "action__sodateru__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0661",
+      "text": "くらし",
+      "category": "abstract",
+      "file": "abstract__kurashi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0662",
+      "text": "ともだち",
+      "category": "abstract",
+      "file": "abstract__tomodachi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0663",
+      "text": "えがお",
+      "category": "abstract",
+      "file": "abstract__egao__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0664",
+      "text": "みらい",
+      "category": "abstract",
+      "file": "abstract__mirai__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0665",
+      "text": "がんばり",
+      "category": "abstract",
+      "file": "abstract__ganbari__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0666",
+      "text": "ふしぎ",
+      "category": "abstract",
+      "file": "abstract__fushigi__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0667",
+      "text": "せいしん",
+      "category": "abstract",
+      "file": "abstract__seishin__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0668",
+      "text": "りそう",
+      "category": "abstract",
+      "file": "abstract__risou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0669",
+      "text": "せいかつ",
+      "category": "abstract",
+      "file": "abstract__seikatsu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0670",
+      "text": "けんこう",
+      "category": "abstract",
+      "file": "abstract__kenkou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0671",
+      "text": "そうぞう",
+      "category": "abstract",
+      "file": "abstract__souzou__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0672",
+      "text": "けつい",
+      "category": "abstract",
+      "file": "abstract__ketsui__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0673",
+      "text": "しんせつ",
+      "category": "abstract",
+      "file": "abstract__shinsetsu__whisper__spk36__s100__p0.wav"
+    }
+  ]
+}

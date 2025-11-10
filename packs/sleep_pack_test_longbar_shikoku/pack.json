@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "language": "ja",
+  "name": "test_longbar_shikoku",
+  "audio_dir": "audio",
+  "items": [
+    {
+      "id": "w0001",
+      "text": "ふぉーく",
+      "category": "object",
+      "file": "object__fu-ku__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0002",
+      "text": "すぷーん",
+      "category": "object",
+      "file": "object__supu-n__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0003",
+      "text": "けーき",
+      "category": "object",
+      "file": "object__ke-ki__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0004",
+      "text": "じゅーす",
+      "category": "object",
+      "file": "object__ju-su__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0005",
+      "text": "ぼーるぺん",
+      "category": "object",
+      "file": "object__bo-rupen__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0006",
+      "text": "ひーたー",
+      "category": "object",
+      "file": "object__hi-ta__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0007",
+      "text": "こーと",
+      "category": "object",
+      "file": "object__ko-to__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0008",
+      "text": "そふぁー",
+      "category": "object",
+      "file": "object__sofu__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0009",
+      "text": "でーた",
+      "category": "object",
+      "file": "object__de-ta__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0010",
+      "text": "くーらー",
+      "category": "object",
+      "file": "object__ku-ra__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0011",
+      "text": "ぷりんたー",
+      "category": "object",
+      "file": "object__purinta__whisper__spk36__s100__p0.wav"
+    },
+    {
+      "id": "w0012",
+      "text": "めーる",
+      "category": "object",
+      "file": "object__me-ru__whisper__spk36__s100__p0.wav"
+    }
+  ]
+}
